@@ -1,3 +1,14 @@
+# Links importantes
+* **[Transformar jsonl obtenido con Twarc2 a csv](Twarc2%20twitter%20scraper/Convert%20twarc2%20json%20to%20csv.ipynb)**
+* **[Analizar hashtag obtenido con Twarc2 con Python](Twarc2%20twitter%20scraper/Hashtag%20Analysis%20With%20Python/0.%20Hashtag%20analysis%20with%20Python.ipynb)**
+* **[Hacer grafo de retweets](Twarc2%20twitter%20scraper/Retweets%20graph/Grafo%20de%20retweets.ipynb)**
+* **[Hacer grafo de hashtags](Twarc2%20twitter%20scraper/Hashtags%20graph/Hashtags%20graph.ipynb)**
+* **[Hacer grafo de usuario a hashtag](Twarc2%20twitter%20scraper/User%20to%20hashtag%20graph/User%20to%20hashtag%20graph.ipynb)**
+* **[Descargar imágenes de twitter](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Downloading%20Twitter%20images.ipynb)**
+* **[Hacer capturas de pantalla automáticamente manteniendo el log in y manteniendo cookies con Selenium](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Screenshots)**
+* **[Contar imágenes](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Counting%20images.ipynb)**
+
+
 # Cómo analizar datos de Twitter
 Vamos a ver cómo se pueden analizar los datos de Twitter obteniéndolos con dos programas: **[t-hoarder](https://github.com/congosto/t-hoarder_kit)** y **[twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)**. Quiero expresar mi máximo agradecimiento a **[Mari Luz Congosto](https://github.com/congosto)** por crear t-hoarder y a Jara Juana Bermejo Vega (**@queenofquanta** en redes) y **[Pynomaly](https://github.com/pynomaly)** por su apoyo y guía. También quiero dar las gracias al Vicerrectorado de Igualdad, Inclusión y Sostenibilidad de la Universidad de Granada por haber hecho este aprendizaje posible.
 
