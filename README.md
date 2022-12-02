@@ -1,12 +1,13 @@
-# Links importantes
-* **[Transformar jsonl obtenido con Twarc2 a csv](Twarc2%20twitter%20scraper/Convert%20twarc2%20json%20to%20csv.ipynb)**
-* **[Analizar hashtag obtenido con Twarc2 con Python](Twarc2%20twitter%20scraper/Hashtag%20Analysis%20With%20Python/0.%20Hashtag%20analysis%20with%20Python.ipynb)**
-* **[Hacer grafo de retweets](Twarc2%20twitter%20scraper/Retweets%20graph/Grafo%20de%20retweets.ipynb)**
-* **[Hacer grafo de hashtags](Twarc2%20twitter%20scraper/Hashtags%20graph/Hashtags%20graph.ipynb)**
-* **[Hacer grafo de usuario a hashtag](Twarc2%20twitter%20scraper/User%20to%20hashtag%20graph/User%20to%20hashtag%20graph.ipynb)**
-* **[Descargar imágenes de twitter](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Downloading%20Twitter%20images.ipynb)**
-* **[Hacer capturas de pantalla automáticamente manteniendo el log in y manteniendo cookies con Selenium](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Screenshots)**
-* **[Contar imágenes](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Counting%20images.ipynb)**
+# Important Links
+* **[Converting twarc2 json to csv](Twarc2%20twitter%20scraper/Convert%20twarc2%20json%20to%20csv.ipynb)**
+* **[Hashtag analysis with Python retrieved with Twarc2](Twarc2%20twitter%20scraper/Hashtag%20Analysis%20With%20Python/0.%20Hashtag%20analysis%20with%20Python.ipynb)**
+* **[Retweets graph](Twarc2%20twitter%20scraper/Retweets%20graph/Grafo%20de%20retweets.ipynb)**
+* **[Hashtags grah](Twarc2%20twitter%20scraper/Hashtags%20graph/Hashtags%20graph.ipynb)**
+* **[User->hashtag graph](Twarc2%20twitter%20scraper/User%20to%20hashtag%20graph/User%20to%20hashtag%20graph.ipynb)**
+* **[Downloading Twitter images](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Downloading%20Twitter%20images.ipynb)**
+* **[Automating screenshots keeping logged in and cookies](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Screenshots)**
+* **[Counting images](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Counting%20images.ipynb)**
+* **[Counting 8 digits Twitter accounts and checking creation date(Twarc2%20twitter%20scraper/Counting%208%20digits%20Twitter%20accounts)**
 
 
 # Cómo analizar datos de Twitter
