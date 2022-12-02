@@ -7,7 +7,7 @@
 * **[Downloading Twitter images](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Downloading%20Twitter%20images.ipynb)**
 * **[Automating screenshots keeping logged in and cookies](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Screenshots)**
 * **[Counting images](Twarc2%20twitter%20scraper/Download%20Twitter%20Images/Counting%20images.ipynb)**
-* **[Counting 8 digits Twitter accounts and checking creation date(Twarc2%20twitter%20scraper/Counting%208%20digits%20Twitter%20accounts)**
+* **[Counting 8 digits Twitter accounts and checking creation date](Twarc2%20twitter%20scraper/Counting%208%20digits%20Twitter%20accounts)**
 
 
 # Cómo analizar datos de Twitter
